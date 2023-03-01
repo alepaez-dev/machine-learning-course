@@ -1,4 +1,4 @@
-# machine-learning-course
+# machine-learning-data-science-course
 python &amp;&amp; study R -> April 20 startssd
 
 
