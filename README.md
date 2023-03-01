@@ -2,7 +2,7 @@
 python &amp;&amp; study R -> April 20 startssd
 
 
-1. Data Science: Machine Learning Course
+1. Data Science: Machine Learning Course - 20Abril
 2. Data Science: R Basics
 3. Data Science: Visualization
 4. Data Science: Probability
