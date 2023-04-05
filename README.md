@@ -1,5 +1,5 @@
 # machine-learning-data-science-course
-python &amp;&amp; study R -> April 20 startssd
+python &amp;&amp; study R -> April 19 startssd
 
 
 1. Data Science: Machine Learning Course - 20Abril
