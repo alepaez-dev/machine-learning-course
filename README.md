@@ -14,5 +14,5 @@ python &amp;&amp; study R -> April 19 startssd
 9. Data Science: Capstone
 
 
-##### Data Science: R Basics
+##### Data Science: R Basics topics
 - R Basics, Functions and Data Types :white_check_mark:
